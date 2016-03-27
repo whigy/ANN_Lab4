@@ -14,7 +14,7 @@ Hopfield Network
   4. Random weight of picture patterns (t5_3Pic_rand_weight)
 
 * t5_4Distortion: Distortion Resistance
-    [t5_4Distortion.m] plot the figures through noise = [0, 0.2, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.8, 1]
-    [t5_4Distortion_update.m] draw the line chart of noise tolarance
+    1. [t5_4Distortion.m] plot the figures through noise = [0, 0.2, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.8, 1]
+    2. [t5_4Distortion_update.m] draw the line chart of noise tolarance
 
 * t5_5Capacity: Capacity
