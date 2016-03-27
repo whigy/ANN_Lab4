@@ -18,3 +18,6 @@ Hopfield Network
     2. [t5_4Distortion_update.m] draw the line chart of noise tolarance
 
 * t5_5Capacity: Capacity
+  1. Capacity of Picture patterns
+  2. Capacity of Random Patterns
+  3. Capacity & Stablity: Bias & non bias; Self-connected or not
