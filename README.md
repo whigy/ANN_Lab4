@@ -8,10 +8,10 @@ Hopfield Network
 * t5_3Energy: Energy of Hopfield
 
   Four tasks included:
-  1. Energy of simple patterns
-  2. Energy of picture patterns
-  3. Random weight of simple patterns
-  4. Random weight of picture patterns
+  1. Energy of simple patterns (t5_3Energy)
+  2. Energy of picture patterns (t5_3Energy_pic)
+  3. Random weight of simple patterns (t5_3Rand_weight)
+  4. Random weight of picture patterns (t5_3Pic_rand_weight)
 
 * t5_4Distortion: Distortion Resistance
 
