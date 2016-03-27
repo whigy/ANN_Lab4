@@ -1,6 +1,7 @@
 ANN_Lab4
 =======
 Hopfield Network
+--------------
 
 * t5_1Error.m: attractor & convergence
 * t5_2Sequencial.m: Sequencial update
