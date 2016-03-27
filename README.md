@@ -2,6 +2,7 @@ ANN_Lab4
 =======
 Hopfield Network
 --------------
+* t5_general: initial test
 
 * t5_1Error: attractor & convergence
 
